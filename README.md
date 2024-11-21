@@ -1,0 +1,6 @@
+The design and analysis of a 2x2 patch antenna array tailored specifically for applications operating at 5.3 and 5.5 GHz frequencies. With the increasing demand for high-speed wireless communication in the millimeter-wave spectrum,
+the development of compact and efficient antenna solutions becomes crucial. Leveraging electromagnetic simulation tools and meticulous optimization techniques, the proposed antenna array is engineered to deliver optimal performance across 
+the targeted frequency bands.The design process involves fine-tuning key parameters such as patch dimensions, substrate material properties, and feed network configuration to achieve desired characteristics such as high gain, low return loss,
+and wide bandwidth. Additionally, strategies to mitigate mutual coupling between array elements are explored to enhance antenna isolation and preserve performance integrity. Simulation results demonstrate the efficacy of the proposed antenna array,
+showcasing desirable radiation patterns, efficient power transmission, and broadband coverage within the 5.3/5.5 GHz bands.These characteristics render the antenna array suitable for various applications including wireless local area networks (WLANs),
+point-to-point communication systems, and emerging technologies such as 5G fixed wireless access (FWA) and Wi-Fi 6E.
