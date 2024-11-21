@@ -1,0 +1,102 @@
+{
+    "parameters": [
+        {
+            "descr": "Substrate Thickness",
+            "expr": "1.57",
+            "name": "SubT",
+            "value": "1.57"
+        },
+        {
+            "descr": "Metal Thickness",
+            "expr": "0.035",
+            "name": "MetT",
+            "value": "0.035"
+        },
+        {
+            "descr": "Antenna Width",
+            "expr": "35",
+            "name": "X",
+            "value": "35"
+        },
+        {
+            "descr": "Antenna Length",
+            "expr": "35",
+            "name": "Y",
+            "value": "35"
+        },
+        {
+            "expr": "16",
+            "name": "w",
+            "value": "16"
+        },
+        {
+            "expr": "11",
+            "name": "l",
+            "value": "11"
+        },
+        {
+            "descr": "50 Ohm Microstrip line",
+            "expr": "2.8",
+            "name": "MlineW",
+            "value": "2.8"
+        },
+        {
+            "expr": "1",
+            "name": "gap",
+            "value": "1"
+        },
+        {
+            "expr": "3",
+            "name": "insert",
+            "value": "3"
+        },
+        {
+            "descr": "82.14",
+            "expr": "1",
+            "name": "MW82",
+            "value": "1"
+        },
+        {
+            "expr": "30",
+            "name": "dis",
+            "value": "30"
+        },
+        {
+            "expr": "3",
+            "name": "LineToPatch",
+            "value": "3"
+        },
+        {
+            "descr": "58.08",
+            "expr": "2.5",
+            "name": "MW58",
+            "value": "2.5"
+        },
+        {
+            "expr": "9",
+            "name": "QW58",
+            "value": "9"
+        },
+        {
+            "expr": "5.125",
+            "name": "QW45",
+            "value": "5.125"
+        },
+        {
+            "expr": "3.4",
+            "name": "MW45",
+            "value": "3.4"
+        },
+        {
+            "expr": "3",
+            "name": "patch",
+            "value": "3"
+        },
+        {
+            "expr": ".035",
+            "name": "mt",
+            "value": ".035"
+        }
+    ],
+    "version": 1
+}
